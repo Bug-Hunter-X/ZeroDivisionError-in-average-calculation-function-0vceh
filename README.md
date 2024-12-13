@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: the ZeroDivisionError.  The `calculate_average` function initially lacks error handling for empty input lists, leading to a division by zero exception. The solution shows how to gracefully handle this by returning 0 when the input is empty.
